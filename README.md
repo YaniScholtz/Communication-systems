@@ -1,4 +1,4 @@
-#Digital Communication Systems
+# Digital Communication Systems
 
 This repository contains three practical projects for the **Digital Communication Systems** course.  
 Each practical explores different concepts like compression, modulation, coding, and channel equalization.
